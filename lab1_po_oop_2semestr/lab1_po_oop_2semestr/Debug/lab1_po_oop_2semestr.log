@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (lab1_po_oop_2semestr.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\Programm\Project in c# и pascal\Работы\ООП\6semestr\lab1_po_oop_2semestr\lab1_po_oop_2semestr\main.cpp(11,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programm\Project in c# и pascal\Работы\ООП\6semestr\lab1_po_oop_2semestr\lab1_po_oop_2semestr\main.cpp(21,59): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programm\Project in c# и pascal\Работы\ООП\6semestr\lab1_po_oop_2semestr\lab1_po_oop_2semestr\main.cpp(30,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab1_po_oop_2semestr.vcxproj -> D:\Programm\Project in c# и pascal\Работы\ООП\6semestr\lab1_po_oop_2semestr\Debug\vector.exe

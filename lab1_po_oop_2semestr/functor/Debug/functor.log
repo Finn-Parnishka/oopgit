@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Programm\Project in c# и pascal\Работы\ООП\6semestr\lab1_po_oop_2semestr\functor\main.cpp(11,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programm\Project in c# и pascal\Работы\ООП\6semestr\lab1_po_oop_2semestr\functor\main.cpp(46,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  functor.vcxproj -> D:\Programm\Project in c# и pascal\Работы\ООП\6semestr\lab1_po_oop_2semestr\Debug\functor.exe
